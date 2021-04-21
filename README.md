@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Edit again to trigger build
 ## Getting Started
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://awsc-integ.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/KristinaPeterson/my-static-nextjs-app)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/KristinaPeterson/my-static-nextjs-app)
 
 First, run the development server:
 
